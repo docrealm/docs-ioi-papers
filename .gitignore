@@ -3,3 +3,13 @@
 
 # linux
 *~
+
+*.pas
+*.dpr
+*.cfg
+*.res
+*.cpp
+*.h
+*.dll
+*.zip
+*.txt
